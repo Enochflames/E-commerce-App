@@ -1,6 +1,6 @@
 {
   "name": "e-com",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.12",
@@ -13,8 +13,8 @@
     "@paypal/react-paypal-js": "^7.8.1",
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.0.0",
     "daisyui": "^2.39.0",
     "framer-motion": "^7.10.3",
     "react": "^18.3.1",
@@ -36,6 +36,7 @@
     "react-show-more-text": "^1.6.2",
     "react-slick": "^0.29.0",
     "slick-carousel": "^1.8.1",
+    "styled-components": "^6.1.13",
     "web-vitals": "^2.1.4",
     "word-wrap": "^1.2.3"
   },
